@@ -11,4 +11,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
 src-git kiddin9 https://github.com/kiddin9/openwrt-packages
-src-git istore https://github.com/linkease/istore;main
+src-git istore https://github.com/linkease/istore
